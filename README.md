@@ -1,3 +1,7 @@
+Medium: https://medium.com/@korn.pudlo
+LinkedIn: https://www.linkedin.com/in/kornel-pud%C5%82o-a19921b5
+
+
 This Slack Bot is designed to bring fun and productivity to your Slack workspace. It can respond to various commands, send random images, share jokes, fun facts, trivia, and even count the number of messages a user has sent to the bot.
 
 Features
